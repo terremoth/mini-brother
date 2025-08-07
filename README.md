@@ -17,3 +17,10 @@ python minibrother.py
 ### How does it looks like
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/e7d0bf95-f2b0-49c3-a57f-9871a7b1e45f" />
+
+### Why
+- Security & anonimity friendly
+- Read news without paywalls
+- Not bloated and memory friendly
+- Test your website without JS
+- because why not?
