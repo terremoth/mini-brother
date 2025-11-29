@@ -1,7 +1,7 @@
 # Mini Brother Browser
-Mini Brother is a Web Browser that does not runs JavaScript.  
+Mini Brother is a Web Browser that does not runs external JavaScript files.  
 
-It runs over QtWebEngine.  
+It runs over QtWebEngine. 
 
 ## How to
 
@@ -20,7 +20,8 @@ python minibrother.py
 
 ### Why
 - Security & anonymity friendly
+- Avoid tracking and ads
 - Read news without paywalls
-- Not bloated and memory friendly
+- Not bloated and more memory friendly
 - Test your website without JS
 - because why not?
